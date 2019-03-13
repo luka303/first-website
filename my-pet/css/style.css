@@ -1,0 +1,16 @@
+p{
+	color: red;
+	font-style: italic;
+	font-size: 50;
+	font-family: monospace;
+}
+img{
+	max-width: 40%;
+	max-height: 40%;
+}
+p{
+	background-color: yellow;
+}
+body{
+	background-color: blue;
+}
